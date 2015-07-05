@@ -2,7 +2,7 @@
 
 set -e
 
-cd /vagrant
+cd ~/beerme
 export VENV_PATH=$HOME
 
 echo setup python dependancies 
